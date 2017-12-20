@@ -1,0 +1,146 @@
+{
+  "tanwin": [{
+      "subname": "ghunnah musyaddadah"
+    },
+    {
+      "subname": "idghom bigunnah"
+    },
+    {
+      "subname": "idghom bilaaghunnah"
+    },
+    {
+      "subname": "idzhar"
+    },
+    {
+      "subname": "ikhfa"
+    },
+    {
+      "subname": "iqlab"
+    }
+  ],
+  "aliflam": [{
+      "subname": "alif lam qomariyah"
+    },
+    {
+      "subname": "alif lam syamsiah"
+    }
+  ],
+  "idghom": [{
+      "subname": "idghom mitslain"
+    },
+    {
+      "subname": "idghom mutajanisain"
+    },
+    {
+      "subname": "idghom mustaqoribain"
+    }
+  ],
+  "lam": [{
+      "subname": "lam tafhkhim"
+    },
+    {
+      "subname": "lam tarqiq"
+    }
+  ],
+  "mad": [{
+    "subname": "mad thobi'i"
+  },
+  {
+    "subname": "mad far'i",
+    "childmenu": [{
+        "subname": "mad aridh"
+      },
+      {
+        "subname": "mad badal"
+      },
+      {
+        "subname": "mad farq"
+      },
+      {
+        "subname": "mad iwadh"
+      },
+      {
+        "subname": "mad jaiz munfashil"
+      },
+      {
+        "subname": "mad layyin"
+      },
+      {
+        "subname": "mad lazim harfi mukhofaff"
+      },
+      {
+        "subname": "mad lazim harfi mustaqqol"
+      },
+      {
+        "subname": "mad lazim kilmi mukhofaff"
+      },
+      {
+        "subname": "mad lazim kilmi mustaqqol"
+      },
+      {
+        "subname": "mad shilah qoshirah"
+      },
+      {
+        "subname": "mad shilah thowilah"
+      },
+      {
+        "subname": "mad wajib muttashil"
+      }
+    ]
+  }],
+  "qolqolah": [{
+      "subname": "qolqolah akbar"
+    },
+    {
+      "subname": "qolqolah kubra"
+    },
+    {
+      "subname": "qolqolah sughra"
+    }
+  ],
+  "ro": [{
+      "subname": "ro tafkhim"
+    },
+    {
+      "subname": "ro tarqiq"
+    },
+    {
+      "subname": "dibaca keduanya"
+    }
+  ],
+  "mimsukun": [{
+      "subname": "idghom mimi"
+    },
+    {
+      "subname": "idzhar syafawi"
+    },
+    {
+      "subname": "ikhfa syafawi"
+    }
+  ],
+  "ghoribah": [{
+      "subname": "imaalah"
+    },
+    {
+      "subname": "isim dlomir"
+    },
+    {
+      "subname": "isymaam"
+    },
+    {
+      "subname": "naql"
+    },
+    {
+      "subname": "nun washal"
+    },
+    {
+      "subname": "saktah"
+    },
+    {
+      "subname": "sin kecil"
+    },
+    {
+      "subname": "tashiil"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Belajar TAJWID
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content class="bg-content">
+  <div class="bg-header"></div>
+  <div class="container-abs">
+    <ion-grid>
+      <ion-row>
+        <ion-col col-md-6>
+          <button ion-button full large color="plain" class="square-radius" (click)="goTo('PagelistPage','qolqolah')">
+            <img src="assets/icon/qolqolah.png" />
+            <div class="teks-btn">Hukum Qolqolah</div>
+          </button>
+        </ion-col>
+        <ion-col col-md-6>
+          <button ion-button full color="plain" class="square-radius" (click)="goTo('PagelistPage','ro')">
+            <img src="assets/icon/ro.png" />
+            <div class="teks-btn">Hukum Ro'</div>
+          </button>
+        </ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col col-md-6>
+          <button ion-button full color="plain" class="square-radius" (click)="goTo('PagelistPage','aliflam')">
+            <img src="assets/icon/aliflam.png" />
+            <div class="teks-btn">Hukum Alif Lam</div>
+          </button>
+        </ion-col>
+        <ion-col col-md-6>
+          <button ion-button full color="plain" class="square-radius" (click)="goTo('PagelistPage','mimsukun')">
+            <img src="assets/icon/mimsukun.png" />
+            <div class="teks-btn">Hukum Mim Sukun</div>
+          </button>
+        </ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col col-md-6>
+          <button ion-button full color="plain" class="square-radius" (click)="goTo('PagelistPage','mad')">
+            <img src="assets/icon/mad.png" />
+            <div class="teks-btn">Hukum mad</div>
+          </button>
+        </ion-col>
+        <ion-col col-md-6>
+          <button ion-button full color="plain" class="square-radius" (click)="goTo('PagelistPage','ghoribah')">
+            <img src="assets/icon/ghoribah.png" />
+            <div class="teks-btn">Hukum ghoribah</div>
+          </button>
+        </ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col col-md-6>
+          <button ion-button full color="plain" class="square-radius" (click)="goTo('PagelistPage','tanwin')">
+            <img src="assets/icon/tanwin.png" />
+            <div class="teks-btn">Hukum nun sukun <br />& tanwin</div>
+          </button>
+        </ion-col>
+        <ion-col col-md-6>
+          <button ion-button full color="plain" class="square-radius" (click)="getTajwid('tanda waqaf')">
+            <img src="assets/icon/waqaf.png" />
+            <div class="teks-btn">tanda waqaf</div>
+          </button>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+</ion-content>

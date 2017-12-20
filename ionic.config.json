@@ -1,0 +1,8 @@
+{
+  "name": "IonDoa",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
