@@ -1,0 +1,34 @@
+<!--
+  Generated template for the FrontmenuPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Belajar TAJWID
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content class="bg-content">
+  <div class="bg-header"></div>
+  <div class="container-abs" margin-top>
+    <ion-grid>
+      <ion-row>
+        <ion-col col-6>
+          <button ion-button block large color="secondary" (click)="goto('HomePage')">
+            <img src="assets/icon/reading64.png">
+            <span class="teks-btn">Materi Tajwid</span>
+          </button>
+        </ion-col>
+        <ion-col col-6>
+          <button ion-button block large color="danger" (click)="goto('QuizPage')">
+            <img src="assets/icon/test64.png">
+            <span class="teks-btn">Quis Tajwid</span>
+          </button>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+</ion-content>

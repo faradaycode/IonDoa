@@ -1,0 +1,134 @@
+{
+  "mad-thobi'i": [{
+    "definisi": "<p>Mad Ashli atau Mad thobi'i terjadi apabila:</p><ul><li>huruf berbaris fathah bertemu dengan alif</li><li>huruf berbaris kasroh bertemu dengan ya mati</li><li>huruf berbaris dhommah bertemu dengan wawu mati</li></ul><p>Panjangnya adalah 1 alif atau dua harokat.</p>"
+  }],
+  "mad-wajib-muttashil": [{
+    "definisi": "Mad Wajib Muttashil ini terjadi apabila ada mad thobi'i bertemu dengan <strong>hamzah (ء)</strong> <i>dalam satu kalimat (kata)</i>. Maka dibaca panjang 2,5 alif atau 5 harokat (ketukan) sampai 3 alif atau 6 harokat."
+  }],
+  "mad-jaiz-munfashil": [{
+    "definisi": "Mad Jaiz Munfashil terjadi apabila ada Mad Thobi'i bertemu dengan <strong>hamzah (ء)</strong> <i>di lain kalimat (kata)</i>. Cara membacanya boleh 1, 2, 3 alif atau 2 sampai 6 harokat."
+  }],
+  "mad-layyin": [{
+    "definisi": "Mad Lin/Layyin terjadi apabila ada <b>wau sukun (وْ)</b> atau <b>ya sukun (يْ)</b> atau mati, di mana huruf sebelumnya <b>berharokat fathah</b>. Panjang bacaannya ialah 1-2 alif (2 sampai 4 harokat)."
+  }],
+  "mad-aridh": [{
+    "definisi": "Mad 'Aridh Lissukun ini terjadi apabila ada Mad Thobi'i di akhir ayat atau mendapatkan <b>waqof</b> (pemberhentian). Dibaca panjang 2, 4 atau 6 harokat."
+  }],
+  "mad-lazim-kilmi-mutsaqqol": [{
+    "definisi": "Mad Lazim Kilmi Mutsaqqol terjadi apabila ada Mad Thobi'i bertemu dengan huruf yang <b>bertasydid</b>. Adapun cara membacanya harus dipanjangkan hingga 3 alif atau 6 harokat."
+  }],
+  "mad-lazim-kilmi-mukhofaff": [{
+    "definisi": "Mad Lazim Kilmi Mukhoffaf terjadi apabila ada <b>Mad Thobi'i</b> bertemu dengan huruf yang berharokat <b>sukun</b> (mati) di dalam satu kata. Mad ini dibaca panjang 6 harokat atau 3 alif."
+  }],
+  "mad-lazim-harfi-mutsaqqol": [{
+    "definisi": "Mad ini memiliki nama lain, yaitu Mad Lazim Harﬁ Musyba' atau Musyabba'.  hukum mad ini bacaan diharuskan panjang. Adapun huruf-hurufnya yaitu: nun (ن), qof (ق), shod (ص), 'ain (ع), sin (س), lam (ل), kaf (ك), mim (م). Adapun dalam peletakannya di dalam al-Qur'an mad ini selalu berada pada ayat pembuka surat. Serta panjang bacaannya ialah 6 harokat atau 3 alif."
+  }],
+  "mad-lazim-harfi-mukhofaff": [{
+    "definisi": "Dalam hukum mad ini, bacaan panjang cukup dengan 2 harokat atau 1 alif saja, hurufnya adalah: <b>Ha (ح), Ya (ي), Tho (ط), Ha' (ح) dan Ro' (ر)</b>."
+  }],
+  "mad-badal": [{
+    "definisi": "Mad badal yaitu mad pengganti huruf <b>hamzah (ء)</b> di awal kata. Lambang mad madal ini biasanya berupa tanda <b>baris atau kasroh tegak</b>. Panjangnya adalah 2 harokat (1 alif)"
+  }],
+  "mad-shilah-thowilah": [{
+    "definisi": "Mad Shilah Thowilah terjadi saat <b>Ha' (°) dzomir (kata ganti)</b> bertemu dengan <b>hamzah (ء)</b>.<br/>Panjang bacaannya ialah 1 sampai 2,5 alif atau 2 sampai 5 ketukan."
+  }],
+  "mad-shilah-qoshirah": [{
+    "definisi": "Apabila ada <b>Ha' (°) dzomir (kata ganti)</b> yang diapit dengan huruf berharokat/huruf hidup selain huruf <b>hamzah (ء)</b>. Panjang bacaannya ialah 1 alif atau 2 harokat saja."
+  }],
+  "mad-farq": [{
+    "definisi": "Mad Farq (pembeda) terjgdi apabila ada Mad Badal bertemu dengan huruf yang <b>bertasydid</b>. Panjang bacaannya adalah 3 alif atau 6 harokat/ketukan."
+  }],
+  "mad-iwadh": [{
+    "definisi": "Mad Iwadh terjadi apabila ada huruf yang berharokat fathatain yang berada di akhir ayat atau diwaqofkan (berhentikan). Cara membacanya dengan mengganti fathatain yang berbunyi “an” menjadi fathah yang berbunyi “a” dengan panjang 2 harokat atau 1 alif."
+  }],
+  "idzhar": [{
+    "definisi": "Idzhar secara bahasa bermakna <i>jelas</i> atau <i>terang</i>. Idzhar terjadi apabila ada NUN mati atau tanwinnya (نْ/ــًــٍــٌــ) yang bertemu dengan huruf—huruf idzhar, yaitu: Hamzah (ء), Ha (ح), Kh (خ), Ha' (ه), 'ain (ع), Ghoin (غ)."
+  }],
+  "ikhfa": [{
+    "definisi": "Dari segi bahasa, ikhfa bermakna <i>samar-samar</i>, terjadi apabila ada NUN mati atau tanwinnya (نْ/ــًــٍــٌــ) yang bertemu Ta (ت), tsa (ث), jim (ج), dal (د), dzal (ذ), zai (ز), sin (س), syin (ش) shod (ص), dhod (ض), tho (ط), dzho ( ظ), fa (ف), qof (ق), kaf(ك). Bunyi ikhfa seakan-akan seperti kita membaca “Ng” di dalam huruf latin."
+  }],
+  "idghom-bigunnah": [{
+    "definisi": "Idgham secara bahasa berarti meleburkan atau memasukkan. Sedangkan bigunnah bermakna dengan dengung. Idhghom Bighunnah cara membacanya, yaitu dengan disertai dengung, terjadi apabila ada NUN mati atau tanwinnya (نْ/ــًــٍــٌــ) yang bertemu Mim (م), Nun (ن), Wawu (و) dan Ya (ي)."
+  }],
+  "idghom-bilaaghunnah": [{
+    "definisi": "Idghom Bilaaghunnah bermakna <i>memasukkan tanpa mendengung</i>. Yaitu dengan memasukkan NUN mati atau tanwinnya (نْ/ــًــٍــٌــ) yang bertemu ke dalam huruf Lam (ل) dan Ro' (ر)."
+  }],
+  "iqlab": [{
+    "definisi": "Iqlab berarti <i>membalik</i>, iqlab terjadi apabila ada NUN mati atau tanwinnya (نْ/ــًــٍــٌــ) yang bertemu ba (ب). Cara membacanya adalah dengan membalikkan atau mengganti nun mati atau tanwin tersebut menjadi bunyi huruf mim (م) dengan dipanjangkan selama 2 ketukan"
+  }],
+  "idghom-mimi": [{
+    "definisi": "Idghom Mimi terjadi apabila ada mim mati/sukun (مْ) bertemu dengan huruf mim (م). Cara membacanya dengan didengungkan sepanjang 2 ketukan, kemudian pada ketukan ketiga melanjutkan huruf di depannya."
+  }],
+  "ikhfa-syafawi": [{
+    "definisi": "Dari segi bahasa ikhfa bermakna samar-samar dan syafawi bermakna bibir. Disebut syafawi sebab kedua huruf ini ialah huruf yang makhrojnya berada di bibir. Adapun Ikhfa Syafawi terjadi apabila ada mim mati/sukun (مْ) bertemu dengan huruf Ba' (ب). Cara membacanya, yaitu dengan menahan huruf mim mati/sukun (مْ) hingga 2 harokat kemudian masuk ke bunyi makhroj huruf Ba' (ب) pada ketukan ke-3."
+  }],
+  "idzhar-syafawi": [{
+    "definisi": "Idzhar Syafawi terjadi apabila ada mim mati/sukun (مْ) bertemu dengan huruf Mim (م) dan Ba' (ب). Cara membacanya, yaitu huruf MIM mati/sukun (مْ) dibaca dengan jelas sebagai mana makna idzhar, yaitu <i>jelas</i>, tanpa disertai dengung serta tanpa ditahan."
+  }],
+  "idghom-mitslain": [{
+    "definisi": "Idghom Mitslain (semisal) adalah apabila ada dua huruf yang sama akan tetapi huruf yang pertama berharokat sukun/mati dan yang kedua berharokat hidup. Cara membacanya yaitu dengan memasukkan huruf yang pertama ke huruf yang kedua. Dibaca seakan bertasydid dengan tanpa dengung."
+  }],
+  "idghom-mutajanisain": [{
+    "definisi": "Mutajanisain bermakna dua huruf yang sejenis. Maksudnya adalah sejenis atau sama di dalam makhrojnya (tempat keluar suara). Dikatakan Idghom Mutajanisain apabila ada pertemuan dua huruf yang berbeda namun sama makhrojnya. Cara membacanya yaitu dengan mentasydidkan huruf yang kedua seakan akan huruf pertama tidak dibaca."
+  }],
+  "idghom-mutaqoribain": [{
+    "definisi": "Idghom mutaqoribain yaitu apabila ada dua huruf yang berdekatan makhrojnya dan sifatnya, yang pertama berharokat sukun atau mati dan yang kedua berharokat hidup. Disebut mutaqoribain karena kedua huruf memiliki kedekatan makhmj sesuai arti dari mutaqorib yang memiliki arti <i>dekat</i>. Adapun cara membacanya ialah dengan seakan meniadakan huruf mati yang pertama."
+  }],
+  "qolqolah-sughra": [{
+    "definisi": "Qolqolah Sughra berarti <i>goncangan kecil</i>/<i>pantulan kecil</i>.<br/> Qolqolah Sughra terjadi apabila ada salah satu dari kelima huruf qolqolah yang mati/sukun berada di tengah ayat. Maka wajib di baca dengan Qolqolah Sughra atau suara pantulan kecil."
+  }],
+  "qolqolah-kubra": [{
+    "definisi": "Qolqolah Kubra ialah qolqolah dengan pantulan besar dan terdapat pada akhir ayat. Bisa berupa huruf qolqolah yang disukun/mati ataupun yang diwaqafkan (diberhentikan)."
+  }],
+  "lam-tafhkhim": [{
+    "definisi": "Huruf LAM dibaca tafhkhim (tebal) apabila huruf tersebut terdapat dalam Lafzhul Jalalah (للّه) yang didahu}ui oleh huruf yang berharokat fathah ( ـَ ) atau dzommah ( ـُ )."
+  }],
+  "lam-tarqiq": [{
+    "definisi": "Lam tarqiq (tipis) adalah lam yang dibaca tipis pada lafdzul jalalah. Kapan dibaca tipis? Yaitu tatkala lafdzuljalalah (اللّه) bertemu dengan huruf sebelumnya berharokat kasroh ( ــِـ )."
+  }],
+  "ro-tafkhim": [{
+    "definisi": "Ra dibaca Tafkhim artinya tebal, apabila:  <ul> <li>Ra berharkat fathah اَلرَّسُوْلَ</li> <li>Ra berharkat dhummah رُحَمَاءِ</li> <li>Ra diwakafkan sebelumnya huruf yang berharkat fathah atau Dhummah يَنْصُرُ- َاْلاَبْتَرُ</li> <li>Ra sukun sebelumnya huruf yang berbaris fathah atau dhummah تُرْجَعُوْنَ- يَرْحَمٌ</li> <li>Ra sukun karena wakaf sebelumnya terdapat alif atau wau yang mati اَلْغَفُوْرُ-اَلْجَبَّارُ</li> <li>Bila ra terletak sesudah Hamzah Washal اُرْكُضْ- اِرْحَمْنَا</li> </ul>"
+  }],
+  "ro-tarqiq": [{
+    "definisi": "Ra dibaca tarqiq (tipis) apabila: <ul> <li>Ra berharkat kasrah &nbsp;رِحْلَةَ الشّتَاءِ _ تَجْرِيْ</li> <li>Ra sukun sebelumnya huruf berharkat kasrah dan sesudahnya bukanlah huruf Ist&rsquo;la&rsquo; فِرْعَوْنَ &ndash; مِرْيَةٌ</li> <li>Ra sukun sebelumnya huruf yan berharkat kasrah dan sesudahnya huruf Ist&rsquo;la&rsquo; dalam kata yang terpisah. فَصْبِرْصَبْرًا</li> <li>Ra sukun karena wakaf, sebelumnya huruf berharkat kasrah atau ya sukun. جَمِيْعٌ مُنْتَصِرٌ &ndash; يَوْمَئِذِ لَخَبِيْرٌ</li> <li>Ra sukun karena wakaf sebelumnya bukan huruf huruf Isti&rsquo;la&rsquo;dan sebelumnya didahului oleh huruf yang berbaris kasrah. ذِيْ الذِّكْر</li> </ul>"
+  }],
+  "dibaca-keduanya": [{
+    "definisi": "<p>Hukum ini terjadi pada huruf Ro' sukun atau diwaqofkan, yang huruf sebelumnya berharokat kasroh(ــِـ), namun bertemu dengan huruf isti'laa '. Semuanya itu terjadi dalam satu kata. Huruf isti 'laa' ialah huruf yang memiliki sifat tebal di dalam pengucapannya. <br/>Adapun yang termasuk ke dalam huruf isti'laa' ialah: KHO'(خ), SHOD (ص), DHOD (ض), THO (ط), DZO (ظ), GHOIN (غ), QOF (ق).</p>"
+  }],
+  "alif-lam-syamsiah": [{
+    "definisi": "<p>Alif Lam Syamsiyah adalah atau Alif Lam Mati yang bertemu dengan salah satu huruf syamsiyah dan dibacanya lebur/idghom (bunyi <strong>al</strong> tidak dibaca). Huruf-huruf tersebut adalah ت ث د ذ ر ز س ش ص ض ط ظ ل ن.</p>"
+  }],
+  "alif-lam-qomariyah": [{
+    "definisi": "Alif Lam Qamariyah adalah atau alif lam mati yang bertemu dengan salah satu huruf qamariyah dan dibacanya jelas/izhar. Huruf-huruf tersebut adalah:  ا ب ج ح خ ع غ ف ق ك م و ه ي"
+  }],
+  "sin-kecil": [{
+    "definisi": "<p>Tanda Sin Kecil ini berbeda dengan tanda sin kecil pada Hukum Saktah. Tanda sin kecil ini berada di atas huruf shod.</p>"
+  }],
+  "tashiil": [{
+    "definisi": "<p>Tashiil bermakna <strong>mudah&nbsp;</strong>atau&nbsp;<strong>ringan</strong>. Yakni memberi kemudahaan di dalam membacanya.</p>"
+  }],
+  "isymaam": [{
+    "definisi": "<p>Isymaam bermakna <strong>mencampur</strong>, yaitu mencampurkan bunyi dzhommah (ــِـ) pada sukun dengan memonyongkan bibir seolah mengucapkan dzhommah, Kemudian melanjutkan ke bunyi harokat fathahnya.</p>"
+  }],
+  "imaalah": [{
+    "definisi": "<p>Dibaca secara imaalah, yaitu dengan cara mencondongkan/membelokkan bunyi fathah kepada bunyi kasroh, sehingga menghasilkan bunyi Ro' berfathah yang seharusnya dibaca <strong>roo</strong>&nbsp; menjadi <strong>ree.&nbsp;</strong>Di dalam redaksi al-Qur'an, biasanya diberi tanda <strong>imalaah</strong> (امالة) pada kalimat yang menduduki hukum ini.</p>"
+  }],
+  "naql": [{
+    "definisi": "<p>Naql secara bahasa berarti <strong>memindahkan</strong>, yaitu memindahkan alif lam (ل) ke dalam hamzah yang berharokat kasroh.</p>"
+  }],
+  "saktah": [{
+    "definisi": "<p>Bacaan ini biasanya ditandai dengan huruf sin (س) atau ditulislengkap dengan kata (سكتة). Sesuai maknanya saktah yang berarti <strong>diam</strong>, cara membacanya juga dengan berhenti sejenak tanpa<br />mengambil napas selama satu alif atau 2 harokat.</p>"
+  }],
+  "nun-washal": [{
+    "definisi": "<p>Nun Washal ini memiliki banyak nama. Biasa disebut dengan Nun Iwadl ataupun Nun Wiqoyah. Nun Washal di dalam al-Qur'an biasanya diberi tanda nun kecil berada di bawah dan berharokat kasrah. Terkadang dalam redaksi lain tidak berharokat. Nun Washal terjadi apabila ada tanwin, baik itu fathahtain (ــٍــ), kasrahtain (ــًــ) maupun dzornrnatain (ــٌــ), bertemu dengan alif lam (ال) atau hamzah washal. Adapun dalam membaca Nun Washal ialah dengan dikasrahkan (ــَــ).</p>"
+  }],
+  "isim-dlomir": [{
+    "definisi": "<p>Setiap Isim Dlamir atau Kata Ganti untuk orang pertama yang berbunyi <strong>ana&nbsp;</strong>(انا), huruf nun yang berfathah dan bertemu dengan alif yang seharusnya mengandung hukum Mad Thobz 1' di dalam kata dlomir ana ini, dibaca pendek. Walaupun secara tulisan dibaca panjang sebagaimana Mad Thobi'i. Kecuali kata <strong>ana</strong> yang bukan termasuk dalam dlomir (kata ganti)</p>"
+  }],
+  "qolqolah-akbar": [{
+    "definisi": "<p>Qolqolah akbar ialah qolqolah kubra yang disertai tasydid. Maka membacanya dengan mentasydidkan huruf qalqalah terlebih dahulu kemudian disertai dengan suara pantulan yang besar.</p>"
+  }],
+  "ghunnah-musyaddadah": [{
+    "definisi": "<p>Dari segi bahasa, ghunnah berarti <strong>dengung</strong> dan musyaddadah berarti <strong>bertasydid</strong>.<br/>Ghunnah Musyaddadah terjadi apabila ada huruf NUN yang bertasydid (نّ) atau MIM yang bertasydid (مّ).<br/>Adapun cara membacanya dengan mendengungkan disertai penekanan dan ditahan selama 2 ketukan. <br/>Kemudian pada ketukan ketiga masuk ke makhroj huruf selanjutnya.</p>"
+  }]
+}

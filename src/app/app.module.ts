@@ -9,6 +9,9 @@ import { MyApp } from './app.component';
 import { PhotoViewer } from '@ionic-native/photo-viewer';
 import { File } from '@ionic-native/file';
 import { ScreenOrientation } from '@ionic-native/screen-orientation';
+import { Toast } from '@ionic-native/toast';
+import { NativeAudio } from '@ionic-native/native-audio';
+import { TajwidProvider } from '../providers/tajwid/tajwid';
 
 @NgModule({
   declarations: [
@@ -29,7 +32,10 @@ import { ScreenOrientation } from '@ionic-native/screen-orientation';
     {provide: ErrorHandler, useClass: IonicErrorHandler},
     PhotoViewer,
     File,
-    ScreenOrientation
+    Toast,
+    ScreenOrientation,
+    NativeAudio,
+    TajwidProvider
   ]
 })
 export class AppModule {}

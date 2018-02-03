@@ -1,0 +1,46 @@
+<!--
+  Generated template for the QuizPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Quis Tajwid</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <div *ngFor="let val of datas; let i = index" id="soal-{{i}}" [style.display]="(i > 0) ? 'none' : 'block'">
+    <div class="panel-soal" text-center>
+      <button ion-button outline large color="danger" (click)="playQst(val.question)">
+        <ion-icon name="play"></ion-icon>
+      </button>
+    </div>
+    <div class="opsi">
+      <ion-list no-lines radio-group (ionChange)="answerQ(val.trueans,$event)">
+        <ion-item>
+          <ion-label>{{val.a}}</ion-label>
+          <ion-radio value="a"></ion-radio>
+        </ion-item>
+        <ion-item>
+          <ion-label>{{val.b}}</ion-label>
+          <ion-radio value="b"></ion-radio>
+        </ion-item>
+        <ion-item>
+          <ion-label>{{val.c}}</ion-label>
+          <ion-radio value="c"></ion-radio>
+        </ion-item>
+      </ion-list>
+    </div>
+    <button ion-button block large margin-top color="dark" (click)="nextq(i)" [style.display]="(num < totalData) ? 'block' : 'none'">
+      <span>Selanjutnya</span>
+    </button>
+    <button ion-button block large margin-top color="light" (click)="finishIt()" [style.display]="(num < totalData) ? 'none' : 'block'">
+      <span>Selesai</span>
+    </button>
+  </div>
+</ion-content>

@@ -13,13 +13,13 @@
 </ion-header>
 
 
-<ion-content padding>
-  <ion-list no-lines *ngIf="!child">
+<ion-content>
+  <ion-list *ngIf="!child">
     <div *ngFor="let row of datas">
       <button ion-item *ngIf="row['childmenu']!=null" (click)="getChild()">
         <span text-capitalize>{{row.subname}}</span>
       </button>
-      <button ion-item *ngIf="row['childmenu']==null" (click)="getTajwid(row.subname)">
+      <button ion-item *ngIf="row['childmenu']==null" (click)="getDescript(row.subname)">
         <span text-capitalize>{{row.subname}}</span>
       </button>
     </div>
@@ -27,18 +27,9 @@
   <!--  child menu show -->
   <ion-list no-lines *ngIf="child">
     <div *ngFor="let row of childm">
-      <button ion-item (click)="getTajwid(row.subname)">
+      <button ion-item (click)="getDescript(row.subname)">
         <span text-capitalize>{{row.subname}}</span>
       </button>
     </div>
   </ion-list>
-  <div class="bottom-div">
-    <ion-grid>
-      <ion-row>
-        <ion-col col-md-4></ion-col>
-        <ion-col col-md-4><img src="assets/imgs/minilogo.png" /></ion-col>
-        <ion-col col-md-4></ion-col>
-      </ion-row>
-    </ion-grid>
-  </div>
 </ion-content>

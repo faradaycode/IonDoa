@@ -1,5 +1,6 @@
 {
-  "tanwin": [{
+  "tanwin": [
+    {
       "subname": "ghunnah musyaddadah"
     },
     {
@@ -69,13 +70,13 @@
         "subname": "mad lazim harfi mukhofaff"
       },
       {
-        "subname": "mad lazim harfi mustaqqol"
+        "subname": "mad lazim harfi mutsaqqol"
       },
       {
         "subname": "mad lazim kilmi mukhofaff"
       },
       {
-        "subname": "mad lazim kilmi mustaqqol"
+        "subname": "mad lazim kilmi mutsaqqol"
       },
       {
         "subname": "mad shilah qoshirah"

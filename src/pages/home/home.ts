@@ -9,16 +9,16 @@ import { File } from '@ionic-native/file';
   templateUrl: 'home.html'
 })
 export class HomePage {
+  public items = [];
 
   constructor(public navCtrl: NavController, private file: File,
-              private photoViewer: PhotoViewer) {
-  }
+    private photoViewer: PhotoViewer) { }
   goTo(page, param) {
     this.navCtrl.push(page, { keyword: param })
   }
   getTajwid(param) {
-    let par = param.replace(/\s/g,"-");
+    let par = param.replace(/\s/g, "-");
     const url = "www/assets/media/";
-    this.photoViewer.show(this.file.applicationDirectory + url + par + ".png",'', {share: false});
+    this.photoViewer.show(this.file.applicationDirectory + url + par + ".png", '', { share: false });
   }
 }

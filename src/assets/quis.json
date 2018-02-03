@@ -1,0 +1,242 @@
+[
+    {
+        "a": "idghom bigunnah",
+        "b": "idghom bilaaghunnah",
+        "c": "ikhfa",
+        "id_q": "1",
+        "question": "ikhfa",
+        "trueans": "c"
+    },
+    {
+        "a": "qolqolah akbar",
+        "b": "qolqolah kubra",
+        "c": "qolqolah sughra",
+        "id_q": "2",
+        "question": "qolqolah-akbar",
+        "trueans": "a"
+    },
+    {
+        "a": "sin kecil",
+        "b": "tashiil",
+        "c": "iqlab",
+        "id_q": "3",
+        "question": "sin-kecil",
+        "trueans": "a"
+    },
+    {
+        "a": "mad aridh",
+        "b": "mad badal",
+        "c": "mad farq",
+        "id_q": "4",
+        "question": "mad-aridh",
+        "trueans": "a"
+    },
+    {
+        "a": "naql",
+        "b": "nun washal",
+        "c": "saktah",
+        "id_q": "5",
+        "question": "saktah",
+        "trueans": "c"
+    },
+    {
+        "a": "Imaalah",
+        "b": "isim dlomir",
+        "c": "isymaam",
+        "id_q": "6",
+        "question": "isymaam",
+        "trueans": "c"
+    },
+    {
+        "a": "mad jaiz munfashil",
+        "b": "mad layyin",
+        "c": "mad lazim harfimukhofaff",
+        "id_q": "7",
+        "question": "mad-jaiz-munfashil",
+        "trueans": "a"
+    },
+    {
+        "a": "idhgom mimi",
+        "b": "idzhar syafawi",
+        "c": "ikhfa syafawi",
+        "id_q": "8",
+        "question": "ikhfa-syafawi",
+        "trueans": "c"
+    },
+    {
+        "a": "mad shilah qoshirah",
+        "b": "mad shilah thowilah",
+        "c": "mad wajib muttashil",
+        "id_q": "9",
+        "question": "mad-wajib-muttashil",
+        "trueans": "c"
+    },
+    {
+        "a": "mad lazim harfi mutsaqqol",
+        "b": "mad lazim kilmi mukhofaff",
+        "c": "mad lazim kilmi mustaqqol",
+        "id_q": "10",
+        "question": "lazim-harfi-mutsaqqol",
+        "trueans": "a"
+    },
+    {
+        "a": "qolqolah akbar",
+        "b": "qolqolah kubra",
+        "c": "qolqolah sughra",
+        "id_q": "11",
+        "question": "qolqolah-sughra",
+        "trueans": "c"
+    },
+    {
+        "a": "Imaalah",
+        "b": "isim dlomir",
+        "c": "isymaam",
+        "id_q": "12",
+        "question": "isim-dlomir",
+        "trueans": "b"
+    },
+    {
+        "a": "naql",
+        "b": "nun washal",
+        "c": "saktah",
+        "id_q": "13",
+        "question": "nun-washal",
+        "trueans": "b"
+    },
+    {
+        "a": "mad shilah qoshirah",
+        "b": "mad shilah thowilah",
+        "c": "mad wajib muttashil",
+        "id_q": "14",
+        "question": "mad-shilah-thowilah",
+        "trueans": "b"
+    },
+    {
+        "a": "mad jaiz munfashil",
+        "b": "mad layyin",
+        "c": "mad lazim harfimukhofaff",
+        "id_q": "15",
+        "question": "mad-lazim-harfimukhofaff",
+        "trueans": "c"
+    },
+    {
+        "a": "idhgom mimi",
+        "b": "idzhar syafawi",
+        "c": "ikhfa syafawi",
+        "id_q": "16",
+        "question": "idhgom-mimi",
+        "trueans": "a"
+    },
+    {
+        "a": "mad aridh",
+        "b": "mad badal",
+        "c": "mad farq",
+        "id_q": "17",
+        "question": "mad-farq",
+        "trueans": "c"
+    },
+    {
+        "a": "mad jaiz munfashil",
+        "b": "mad layyin",
+        "c": "mad lazim harfimukhofaff",
+        "id_q": "18",
+        "question": "mad-layyin",
+        "trueans": "b"
+    },
+    {
+        "a": "Imaalah",
+        "b": "isim dlomir",
+        "c": "isymaam",
+        "id_q": "19",
+        "question": "imaalah",
+        "trueans": "a"
+    },
+    {
+        "a": "mad aridh",
+        "b": "mad badal",
+        "c": "mad farq",
+        "id_q": "20",
+        "question": "mad-badal",
+        "trueans": "b"
+    },
+    {
+        "a": "mad lazim harfi mustaqqol",
+        "b": "mad lazim kilmi mukhofaff",
+        "c": "mad lazim kilmi mustaqqol",
+        "id_q": "21",
+        "question": "mad-lazim-kilmi-mukhofaff",
+        "trueans": "b"
+    },
+    {
+        "a": "naql",
+        "b": "nun washal",
+        "c": "saktah",
+        "id_q": "22",
+        "question": "naql",
+        "trueans": "a"
+    },
+    {
+        "a": "mad lazim harfi mutsaqqol",
+        "b": "mad lazim kilmi mukhofaff",
+        "c": "mad lazim kilmi mutsaqqol",
+        "id_q": "23",
+        "question": "mad lazim kilmi mutsaqqol",
+        "trueans": "c"
+    },
+    {
+        "a": "idhgom mimi",
+        "b": "idzhar syafawi",
+        "c": "ikhfa syafawi",
+        "id_q": "24",
+        "question": "idzhar-syafawi",
+        "trueans": "b"
+    },
+    {
+        "a": "mad shilah qoshirah",
+        "b": "mad shilah thowilah",
+        "c": "mad wajib muttashil",
+        "id_q": "25",
+        "question": "mad-shilah-qoshirah",
+        "trueans": "a"
+    },
+    {
+        "a": "sin kecil",
+        "b": "tashiil",
+        "c": "iqlab",
+        "id_q": "26",
+        "question": "tashiil",
+        "trueans": "b"
+    },
+    {
+        "a": "idghom bigunnah",
+        "b": "idghom bilaaghunnah",
+        "c": "ikhfa",
+        "id_q": "27",
+        "question": "idghom-bigunnah",
+        "trueans": "a"
+    },
+    {
+        "a": "idghom bigunnah",
+        "b": "idghom bilaaghunnah",
+        "c": "ikhfa",
+        "id_q": "28",
+        "question": "idghom-bilaaghunnah",
+        "trueans": "b"
+    },
+    {
+        "a": "qolqolah akbar",
+        "b": "qolqolah kubra",
+        "c": "qolqolah sughra",
+        "id_q": "29",
+        "question": "qolqolah-kubra",
+        "trueans": "b"
+    },
+    {
+        "a": "sin kecil",
+        "b": "tashiil",
+        "c": "iqlab",
+        "id_q": "30",
+        "question": "iqlab",
+        "trueans": "c"
+    }
+]
