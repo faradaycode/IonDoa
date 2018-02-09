@@ -1,8 +1,5 @@
-import { HttpClient } from '@angular/common/http';
 import { Component } from '@angular/core';
-import { IonicPage, NavController, NavParams, ToastController } from 'ionic-angular';
-import { File } from '@ionic-native/file';
-import { NativeAudio } from '@ionic-native/native-audio';
+import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { TajwidProvider } from '../../providers/tajwid/tajwid';
 
 /**
@@ -26,9 +23,7 @@ export class QuizPage {
   totalData: any;
   num: number = 0;
 
-  constructor(public navCtrl: NavController, public navParams: NavParams,
-    private http: HttpClient, private audio: NativeAudio, private file: File,
-    private tost: ToastController, private serv: TajwidProvider) {
+  constructor(public navCtrl: NavController, public navParams: NavParams, private serv: TajwidProvider) {
     this.posquest = 0;
     this.checkVar = 0;
 

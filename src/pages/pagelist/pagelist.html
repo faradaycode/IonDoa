@@ -14,7 +14,7 @@
 
 
 <ion-content>
-  <ion-list *ngIf="!child">
+  <ion-list>
     <div *ngFor="let row of datas">
       <button ion-item *ngIf="row['childmenu']!=null" (click)="getChild()">
         <span text-capitalize>{{row.subname}}</span>
@@ -23,13 +23,15 @@
         <span text-capitalize>{{row.subname}}</span>
       </button>
     </div>
-  </ion-list>
-  <!--  child menu show -->
-  <ion-list no-lines *ngIf="child">
-    <div *ngFor="let row of childm">
-      <button ion-item (click)="getDescript(row.subname)">
-        <span text-capitalize>{{row.subname}}</span>
-      </button>
-    </div>
+
+    <!--  child menu show -->
+    <ion-list no-lines *ngIf="child" class="childmenu">
+      <div *ngFor="let row of childm">
+        <button ion-item (click)="getDescript(row.subname)">
+          <span text-capitalize>{{row.subname}}</span>
+        </button>
+      </div>
+    </ion-list>
+
   </ion-list>
 </ion-content>

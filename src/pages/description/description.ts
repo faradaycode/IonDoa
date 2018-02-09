@@ -36,7 +36,7 @@ export class DescriptionPage {
       this.getImgDir(keyword);
     });
   }
-  
+
   getImgDir(dirname) {
     this.dirName = dirname;
     let fileUrl = "www/assets/media/" + dirname;
@@ -52,7 +52,7 @@ export class DescriptionPage {
     let dire = this.file.applicationDirectory + 'www/assets/audio/' + this.dirName + '/';
     this.file.checkFile(dire, filename + '.ogg').then(
       _ => {
-        this.serv.playSound('contoh', this.dirName + '/' + filename + '.ogg');
+        this.serv.playSound('contoh', "assets/audio/" + this.dirName + '/' + filename + '.ogg');
       }).catch(err => this.serv.onToast(JSON.stringify(err)));
   }
 }

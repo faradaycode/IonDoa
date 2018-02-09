@@ -1,5 +1,4 @@
 import { NativeAudio } from '@ionic-native/native-audio';
-import { File } from '@ionic-native/file';
 import { ToastController } from 'ionic-angular';
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
@@ -12,9 +11,9 @@ import { Injectable } from '@angular/core';
 */
 @Injectable()
 export class TajwidProvider {
-
+  public childr: any = [];
   constructor(public http: HttpClient, private toas: ToastController,
-    private file: File, private audio: NativeAudio) {
+    private audio: NativeAudio) {
     console.log('Hello TajwidProvider Provider');
   }
 
@@ -25,7 +24,7 @@ export class TajwidProvider {
     let tos = this.toas.create({
       message: msg,
       duration: 3000,
-      position: "bottom"
+      position: "top"
     });
     tos.present();
   }
