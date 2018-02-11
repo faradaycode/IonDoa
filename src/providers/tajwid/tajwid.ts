@@ -33,4 +33,9 @@ export class TajwidProvider {
       this.audio.play(id, () => this.audio.unload(id));
     });
   }
+  stopIt(id) {
+    this.audio.stop(id).then(_ => {
+      this.audio.unload(id);
+    })
+  }
 }

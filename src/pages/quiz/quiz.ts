@@ -22,6 +22,7 @@ export class QuizPage {
   randAns: any = []; //collect random question array
   totalData: any;
   num: number = 0;
+  sCount: number = 0;
 
   constructor(public navCtrl: NavController, public navParams: NavParams, private serv: TajwidProvider) {
     this.posquest = 0;
@@ -54,6 +55,8 @@ export class QuizPage {
     } else {
       this.serv.onToast('Jawab Dulu Dong');
     }
+    this.serv.stopIt('listening');
+    this.sCount = 0;
   }
   //end method
 
@@ -81,9 +84,14 @@ export class QuizPage {
 
   //play sound for listening section
   playQst(folder) {
+    this.sCount++;
     let url = 'assets/audio/';
     let ogg = '/1.ogg';
     this.serv.playSound('listening', url + folder + ogg)
+    if (this.sCount > 1) {
+      this.serv.stopIt('listening');
+      this.sCount = 0;
+    }
   }
 
 }

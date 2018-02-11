@@ -12,6 +12,7 @@ import { ScreenOrientation } from '@ionic-native/screen-orientation';
 import { Toast } from '@ionic-native/toast';
 import { NativeAudio } from '@ionic-native/native-audio';
 import { TajwidProvider } from '../providers/tajwid/tajwid';
+import { AppRate } from '@ionic-native/app-rate';
 
 @NgModule({
   declarations: [
@@ -29,13 +30,14 @@ import { TajwidProvider } from '../providers/tajwid/tajwid';
   providers: [
     StatusBar,
     SplashScreen,
-    {provide: ErrorHandler, useClass: IonicErrorHandler},
+    { provide: ErrorHandler, useClass: IonicErrorHandler },
     PhotoViewer,
     File,
     Toast,
     ScreenOrientation,
     NativeAudio,
-    TajwidProvider
+    TajwidProvider,
+    AppRate
   ]
 })
-export class AppModule {}
+export class AppModule { }

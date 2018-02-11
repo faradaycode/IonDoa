@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.magentamedia.belajartajwid" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.magentamedia.belajartajwidnew" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Belajar Tajwid</name>
-    <description>Aplikasi untuk buku belajar tajwid</description>
+    <description>Aplikasi untuk buku belajar tajwid versi baru</description>
     <author email="ferdireza96@gmail.com" href="https://www.linkedin.com/in/ferdi-reza-b877a313b/">ferdi -faraday-</author>
     <content src="index.html" />
     <access origin="*" />

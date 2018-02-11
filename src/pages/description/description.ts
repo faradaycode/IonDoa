@@ -22,7 +22,7 @@ export class DescriptionPage {
   imgs: any = []; //for image string url
   dirName: string;
   apptitle: string;
-  onEnable: boolean = false;
+  playCount: number = 0;
 
   constructor(public navCtrl: NavController, public navParams: NavParams,
     private http: HttpClient, private file: File, private serv: TajwidProvider) {
@@ -49,10 +49,15 @@ export class DescriptionPage {
   }
 
   playSound(filename) {
+    this.playCount++;
     let dire = this.file.applicationDirectory + 'www/assets/audio/' + this.dirName + '/';
     this.file.checkFile(dire, filename + '.ogg').then(
       _ => {
         this.serv.playSound('contoh', "assets/audio/" + this.dirName + '/' + filename + '.ogg');
       }).catch(err => this.serv.onToast(JSON.stringify(err)));
+      if(this.playCount > 1) {
+        this.playCount = 0;
+        this.serv.stopIt('contoh');
+      }
   }
 }

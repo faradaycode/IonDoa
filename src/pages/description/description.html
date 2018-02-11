@@ -23,17 +23,19 @@
 
 
 <ion-content padding>
-  <div [ngSwitch]="tajpage">
+  <!-- teks only -->
+  <div [ngSwitch]="tajpage" >
     <div *ngSwitchCase="'describe'">
       <div *ngFor="let item of datas" text-justify class="overlay">
         <span class="text-large" [innerHTML]="item.definisi"></span>
       </div>
     </div>
+    <!-- example sound -->
     <div *ngSwitchCase="'example'">
       <div *ngFor="let file of imgs; let i = index" padding-bottom>
         <div class="overlay" text-right>
           <img src="assets/media/{{dirName}}/{{file.name}}" />
-          <button full ion-button rounded (click)="playSound(i+1)" [disabled]="onEnable">
+          <button full ion-button rounded (click)="playSound(i+1)">
             <ion-icon name="play"></ion-icon>
           </button>
         </div>
